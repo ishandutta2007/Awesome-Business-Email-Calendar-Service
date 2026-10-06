@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Business-Email-Calendar-Service"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Business-Email-Calendar-Service?style=social" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Business-Email-Calendar-Service"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Business-Email-Calendar-Service?style=social" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Business-Email-Calendar-Service/fork"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Business-Email-Calendar-Service?style=social" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Business-Email-Calendar-Service/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Business-Email-Calendar-Service?color=blue" alt="License"/></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -63,7 +63,7 @@ The global business email and calendar services market is estimated at **~$65 Bi
 
 ## 🔓 Open-Source GitHub Projects ⚡
 
-*Sorted by GitHub Star Count (Descending)* 🌟
+*Sorted by GitHub Stars_Count (Descending)* 🌟
 
 - **[Nextcloud Groupware](https://github.com/nextcloud/server)** [![Stars](https://img.shields.io/github/stars/nextcloud/server?style=social&color=white)](https://github.com/nextcloud/server/stargazers) ☁️  
   **Email, calendar, contacts, and task management on your own private cloud**, AGPL-3.0 licensed. **Nextcloud Mail** supports multiple IMAP accounts, thread views, and automated mailbox rules. **Nextcloud Calendar** features CalDAV sync, free-busy scheduling, resource booking, and delegation. **Nextcloud Contacts** supports CardDAV synchronization and organization charts. 🚀
@@ -121,7 +121,7 @@ Contributions are welcome! Follow these steps to submit new business email platf
 
 1. 🍴 **Fork** the repository.
 2. 📝 **Add/edit** entries in `README.md` maintaining table/list structure and formatting.
-3. 🔗 Include project title, official website/GitHub link, exact star count badge, license, and brief description.
+3. 🔗 Include project title, official website/GitHub link, exact Stars_Count badge, license, and brief description.
 4. 🚀 Submit a **Pull Request** with a descriptive summary of your changes.
 
 ---
